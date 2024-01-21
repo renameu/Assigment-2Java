@@ -1,0 +1,5 @@
+package Data;
+
+public interface Payable  {
+    public double getPaymentAmount();
+}
